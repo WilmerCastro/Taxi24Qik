@@ -1,0 +1,202 @@
+[
+    {
+        "id": "60397e16-a8f3-4714-90dc-af26bb9b0d25",
+        "fullName": "Carmen Esteban Ruiz",
+        "email": "carmen.esteban@example.com",
+        "phoneNumber": "910001100",
+        "licencePlate": "OC73QXT",
+        "latitude": -16.388021546929643,
+        "longitude": -71.57204453712353,
+        "available": false
+    },
+    {
+        "id": "714ed6f2-0a40-403d-937f-dc946bfcb035",
+        "fullName": "Rafael Morán Guerrero",
+        "email": "rafael.moran@example.com",
+        "phoneNumber": "992593851",
+        "licencePlate": "PU43VWH",
+        "latitude": -16.41405410919811,
+        "longitude": -71.57421548033025,
+        "available": true
+    },
+    {
+        "id": "59bb3c7d-e438-40a1-bd31-a12d508cf511",
+        "fullName": "Carlos Redondo Fuentes",
+        "email": "carlos.redondo@example.com",
+        "phoneNumber": "929253321",
+        "licencePlate": "UU14YIX",
+        "latitude": -16.397497802548802,
+        "longitude": -71.58007702698842,
+        "available": true
+    },
+    {
+        "id": "2bc2e877-604c-4274-8249-dd31bfa77639",
+        "fullName": "Mónica Casas Campo",
+        "email": "monica.casas@example.com",
+        "phoneNumber": "973458079",
+        "licencePlate": "UW25HQG",
+        "latitude": -16.346466372556712,
+        "longitude": -71.55250604826301,
+        "available": false
+    },
+    {
+        "id": "df6f7132-562a-4c2a-aa6e-081081863fc3",
+        "fullName": "Fernando Prieto Naval",
+        "email": "fernando.prieto@example.com",
+        "phoneNumber": "906067741",
+        "licencePlate": "BI73ULJ",
+        "latitude": -16.438313320775723,
+        "longitude": -71.588977894136,
+        "available": false
+    },
+    {
+        "id": "e432e198-485a-49ad-99b2-85ff1976b708",
+        "fullName": "Lucía Gil Manzano",
+        "email": "lucia.gil@example.com",
+        "phoneNumber": "953360406",
+        "licencePlate": "NL94TGD",
+        "latitude": -16.394061411487964,
+        "longitude": -71.55380861418703,
+        "available": true
+    },
+    {
+        "id": "5cd05100-0727-4406-ad0a-7add082f0a88",
+        "fullName": "Óscar Vallés Robles",
+        "email": "oscar.valles@example.com",
+        "phoneNumber": "968085853",
+        "licencePlate": "AE86IYY",
+        "latitude": -16.3920828557941,
+        "longitude": -71.56813683935142,
+        "available": true
+    },
+    {
+        "id": "21639764-043f-41ac-8270-63fe334c5d85",
+        "fullName": "Ana Moya Pastor",
+        "email": "ana.moya@example.com",
+        "phoneNumber": "983597017",
+        "licencePlate": "BU07QMT",
+        "latitude": -16.43394063944238,
+        "longitude": -71.52591199398063,
+        "available": false
+    },
+    {
+        "id": "485e496b-bf9c-417e-b48e-55c8b6159e69",
+        "fullName": "David Lago Soler",
+        "email": "david.lago@example.com",
+        "phoneNumber": "917435575",
+        "licencePlate": "RZ52FXE",
+        "latitude": -16.394790347992497,
+        "longitude": -71.54848980333057,
+        "available": false
+    },
+    {
+        "id": "4cb97968-06fc-4606-a139-2ebaf4368148",
+        "fullName": "Sara Vega Mendoza",
+        "email": "sara.vega@example.com",
+        "phoneNumber": "906725817",
+        "licencePlate": "CX03FGE",
+        "latitude": -16.33552933001043,
+        "longitude": -71.55565391591276,
+        "available": true
+    },
+    {
+        "id": "80a9581e-c913-4f35-a6ca-86c089ca69a4",
+        "fullName": "Irene Rico Villa",
+        "email": "irene.rico@example.com",
+        "phoneNumber": "964772035",
+        "licencePlate": "HW78RPQ",
+        "latitude": -16.38271047682437,
+        "longitude": -71.56629153762572,
+        "available": false
+    },
+    {
+        "id": "e550fd4a-fa97-4cd1-a166-3f5cd9e0c319",
+        "fullName": "Jorge Nieto Jurado",
+        "email": "jorge.nieto@example.com",
+        "phoneNumber": "935132522",
+        "licencePlate": "PM47QAX",
+        "latitude": -16.426027918259557,
+        "longitude": -71.55706502899713,
+        "available": true
+    },
+    {
+        "id": "3e171e60-8538-4ad2-b00f-3c7ce49dc26b",
+        "fullName": "Clara Marco Polo",
+        "email": "clara.marco@example.com",
+        "phoneNumber": "924491182",
+        "licencePlate": "SQ64TVN",
+        "latitude": -16.43779276863655,
+        "longitude": -71.5974445726422,
+        "available": false
+    },
+    {
+        "id": "50af395b-0fbc-45b6-a735-747c8dc2d4b8",
+        "fullName": "Luis Peralta Roca",
+        "email": "luis.peralta@example.com",
+        "phoneNumber": "961555948",
+        "licencePlate": "JO72EOV",
+        "latitude": -16.46808657929074,
+        "longitude": -71.51690257967273,
+        "available": true
+    },
+    {
+        "id": "aee458e6-c2bf-417b-a696-5a1e19dbd9a2",
+        "fullName": "Marta Ruiz Montes",
+        "email": "marta.ruiz@example.com",
+        "phoneNumber": "954095019",
+        "licencePlate": "XC45TQE",
+        "latitude": -16.325425042156564,
+        "longitude": -71.58192232871413,
+        "available": true
+    },
+    {
+        "id": "c29b0d81-ecf7-450d-ac31-6635986f1b02",
+        "fullName": "Roberto Molina Campo",
+        "email": "roberto.molina@example.com",
+        "phoneNumber": "979172697",
+        "licencePlate": "ON58WHX",
+        "latitude": -16.361152295006104,
+        "longitude": -71.5671599149084,
+        "available": true
+    },
+    {
+        "id": "9567f930-7a69-4c30-97b6-638babef7df0",
+        "fullName": "Sofía Guerra Valle",
+        "email": "sofia.guerra@example.com",
+        "phoneNumber": "910017545",
+        "licencePlate": "CX70STR",
+        "latitude": -16.397601934664543,
+        "longitude": -71.52200429620852,
+        "available": false
+    },
+    {
+        "id": "86a47f94-6823-4a3f-9da3-b12e65673cb8",
+        "fullName": "Antonio Campos Navarro",
+        "email": "antonio.campos@example.com",
+        "phoneNumber": "978416730",
+        "licencePlate": "OK85LDC",
+        "latitude": -16.422175555808543,
+        "longitude": -71.50735042956313,
+        "available": false
+    },
+    {
+        "id": "964b9b9d-914a-4d64-b474-7cabf21479d2",
+        "fullName": "Gabriel Alonso Lara",
+        "email": "gabriel.alonso@example.com",
+        "phoneNumber": "907273396",
+        "licencePlate": "RR45POR",
+        "latitude": -16.31133666566752,
+        "longitude": -71.53249619860811,
+        "available": true
+    },
+    {
+        "id": "b0ee796a-6270-4388-935f-d75b4591aad1",
+        "fullName": "Elena Moreno Durán",
+        "email": "elena.moreno@example.com",
+        "phoneNumber": "949787754",
+        "licencePlate": "IF87JRO",
+        "latitude": -16.310131913263263,
+        "longitude": -71.53190611262195,
+        "available": true
+    }
+]

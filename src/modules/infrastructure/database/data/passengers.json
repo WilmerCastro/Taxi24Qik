@@ -1,0 +1,158 @@
+[
+    {
+        "id": "51d0776f-2d94-4c7f-8335-ddf2035ca68d",
+        "fullName": "Sofia Castro Montoya",
+        "email": "sofia.castro@example.com",
+        "phoneNumber": "952678208"
+    },
+    {
+        "id": "ec880a6b-0321-4148-88f0-a3e9df79d3d5",
+        "fullName": "Miguel Arroyo Franco",
+        "email": "miguel.arroyo@example.com",
+        "phoneNumber": "990468148"
+    },
+    {
+        "id": "d97451fb-b6a1-4dbf-a794-2b9f08d76526",
+        "fullName": "Clara Gómez Álvarez",
+        "email": "clara.gomez@example.com",
+        "phoneNumber": "976939035"
+    },
+    {
+        "id": "e56e17a9-91bb-4b13-b91f-cd042bc45a61",
+        "fullName": "Lucas Vargas Castillo",
+        "email": "lucas.vargas@example.com",
+        "phoneNumber": "999875291"
+    },
+    {
+        "id": "fe84eebd-1b74-4dc5-93d5-4df629bb3607",
+        "fullName": "Carla Mora Solis",
+        "email": "carla.mora@example.com",
+        "phoneNumber": "927626690"
+    },
+    {
+        "id": "399e6fee-378a-4b56-8c49-f2342031bb52",
+        "fullName": "Marco Antunez Ortega",
+        "email": "marco.antunez@example.com",
+        "phoneNumber": "982271735"
+    },
+    {
+        "id": "263067f2-f73b-4ed4-9083-442f7c0e2c50",
+        "fullName": "Elena Ramírez Soto",
+        "email": "elena.ramirez@example.com",
+        "phoneNumber": "974198872"
+    },
+    {
+        "id": "8d9ac03b-9fc0-4bab-a628-f459a112b492",
+        "fullName": "Fernando Sanz Herrera",
+        "email": "fernando.sanz@example.com",
+        "phoneNumber": "945535186"
+    },
+    {
+        "id": "d2e1d3d2-6d99-4077-b993-75dc8ed81484",
+        "fullName": "Rosa Cano Marín",
+        "email": "rosa.cano@example.com",
+        "phoneNumber": "967184867"
+    },
+    {
+        "id": "2a0d5952-8dee-450d-b968-ab518b1cba0c",
+        "fullName": "Isabel Ortiz Navarro",
+        "email": "isabel.ortiz@example.com",
+        "phoneNumber": "901159224"
+    },
+    {
+        "id": "8a868060-eab8-4ec4-b032-a18559158286",
+        "fullName": "Carlos Jimenez Rojas",
+        "email": "carlos.jimenez@example.com",
+        "phoneNumber": "904737119"
+    },
+    {
+        "id": "516e708f-ad66-456d-bb1a-0d0134ef47f4",
+        "fullName": "Julia Rey Pastor",
+        "email": "julia.rey@example.com",
+        "phoneNumber": "989643141"
+    },
+    {
+        "id": "3c3481c3-64ac-4967-afda-e2db49b41661",
+        "fullName": "Raúl Martín Gil",
+        "email": "raul.martin@example.com",
+        "phoneNumber": "910314309"
+    },
+    {
+        "id": "1f627942-a87c-4c37-9b27-299913777ab5",
+        "fullName": "Diana Aguilar Leon",
+        "email": "diana.aguilar@example.com",
+        "phoneNumber": "957834608"
+    },
+    {
+        "id": "72e6094a-c112-4510-ab05-1361b6a744dc",
+        "fullName": "Pablo Fuentes Cabrera",
+        "email": "pablo.fuentes@example.com",
+        "phoneNumber": "966017913"
+    },
+    {
+        "id": "3626f340-8224-4b75-9ddb-9c84dd6b9972",
+        "fullName": "Andrea Molina Vega",
+        "email": "andrea.molina@example.com",
+        "phoneNumber": "920150073"
+    },
+    {
+        "id": "f06eb6fa-71e7-4b7e-a9e6-be9a7e18a926",
+        "fullName": "Sergio Rubio Moreno",
+        "email": "sergio.rubio@example.com",
+        "phoneNumber": "902397362"
+    },
+    {
+        "id": "4a106eac-ab3b-4476-8c1f-79ef58c346d9",
+        "fullName": "Natalia Crespo Vidal",
+        "email": "natalia.crespo@example.com",
+        "phoneNumber": "979837103"
+    },
+    {
+        "id": "9cac82ee-443e-4b14-b85f-91d8ad5ee9c9",
+        "fullName": "Iván Gallego Torres",
+        "email": "ivan.gallego@example.com",
+        "phoneNumber": "984711376"
+    },
+    {
+        "id": "f9e27a99-6cde-4f38-8614-45d5f6927db3",
+        "fullName": "Laura Morán Peralta",
+        "email": "laura.moran@example.com",
+        "phoneNumber": "920029030"
+    },
+    {
+        "id": "fd35cb38-96b8-496b-9079-1fb008a15612",
+        "fullName": "Natalia Serrano Guerra",
+        "email": "natalia.serrano@example.com",
+        "phoneNumber": "910329643"
+    },
+    {
+        "id": "9b2167f6-b1b3-479d-b546-5a18f16e19bf",
+        "fullName": "Oscar Vázquez Palacios",
+        "email": "oscar.vazquez@example.com",
+        "phoneNumber": "981061115"
+    },
+    {
+        "id": "0b613943-af9d-4f82-bd94-5282b4144ee1",
+        "fullName": "Verónica Bravo Sánchez",
+        "email": "veronica.bravo@example.com",
+        "phoneNumber": "915668896"
+    },
+    {
+        "id": "ca473db9-8095-4ab6-a619-1518faf1359c",
+        "fullName": "Daniel Torres Molina",
+        "email": "daniel.torres@example.com",
+        "phoneNumber": "989011513"
+    },
+    {
+        "id": "ac8fb002-908c-4ee1-808d-e813adeee3a7",
+        "fullName": "Cristina Pardo Segura",
+        "email": "cristina.pardo@example.com",
+        "phoneNumber": "987998102"
+    },
+    {
+        "id": "9857814a-8329-4478-9a94-d402a35ac6c8",
+        "fullName": "Beatriz Blanco Nieto",
+        "email": "beatriz.blanco@example.com",
+        "phoneNumber": "959859115"
+    }
+]
